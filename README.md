@@ -45,4 +45,10 @@ home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할
 
 아파트 이름을 검색하면 검색어가 포함된 아파트들이 검색됩니다.
 
++ 키워드 검색 기능
+
+![키워드검색](https://user-images.githubusercontent.com/75300624/175824204-fff4980c-a976-45af-9f3f-b5ba74445851.gif)
+
+키워드로 검색하면 검색결과와 함께 맵에 표시됩니다. ( 예) "쌍문동 맛집" 검색)
+
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=393735&height=200&section=footer)
