@@ -11,6 +11,14 @@
 + 아파트 이름으로 검색도 가능해요 
 -----------
 ### 화면구성
++ HOME 화면
+
+![home](https://user-images.githubusercontent.com/75300624/175822121-80a5f3ae-a90c-4e37-9376-c07eff5b29b1.gif)
+
+home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할 수 있습니다
+
+
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=393735&height=200&section=footer)
