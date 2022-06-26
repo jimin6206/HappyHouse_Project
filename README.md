@@ -39,4 +39,10 @@ home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할
 
 하나의 마커를 클릭하면 간단한 정보를 볼 수 있고, 버튼을 누르면 해당 페이지로 이동합니다
 
++ 아파트 이름 검색
+
+![아파트이름검색](https://user-images.githubusercontent.com/75300624/175823941-2a5588c8-392b-4a58-aa78-eebabf28ef49.gif)
+
+아파트 이름을 검색하면 검색어가 포함된 아파트들이 검색됩니다.
+
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=393735&height=200&section=footer)
