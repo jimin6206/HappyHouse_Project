@@ -55,5 +55,9 @@ home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할
 
 ![게시판](https://user-images.githubusercontent.com/75300624/175824388-b1758d91-6be6-4ba2-a3bb-c69c6d6384cf.gif)
 
++ 팀 정보
+
+![팀](https://user-images.githubusercontent.com/75300624/175824468-f408584b-8fab-4fc1-b561-27746f5873f5.gif)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=393735&height=200&section=footer)
