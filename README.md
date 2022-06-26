@@ -17,6 +17,9 @@
 
 home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할 수 있습니다
 
++ 회원가입 & 로그인 화면
+
+![login](https://user-images.githubusercontent.com/75300624/175822650-e1ca490d-b1e2-4a4f-9787-5a570747102a.gif)
 
 
 
