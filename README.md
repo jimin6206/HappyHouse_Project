@@ -51,4 +51,9 @@ home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할
 
 키워드로 검색하면 검색결과와 함께 맵에 표시됩니다. ( 예) "쌍문동 맛집" 검색)
 
++ 게시판 
+
+![게시판](https://user-images.githubusercontent.com/75300624/175824388-b1758d91-6be6-4ba2-a3bb-c69c6d6384cf.gif)
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=393735&height=200&section=footer)
