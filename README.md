@@ -17,8 +17,6 @@
 
 home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할 수 있습니다
 
-
-
 + 회원가입 & 로그인 화면
 
 ![login](https://user-images.githubusercontent.com/75300624/175822650-e1ca490d-b1e2-4a4f-9787-5a570747102a.gif)
@@ -33,7 +31,12 @@ home화면입니다. 상단에 navBar를 이용해서 다른 창으로 이동할
 
 상세정보에는 거래내역을 확인할 수 있고, 거래내역과 면적 순으로 보기가 가능합니다.
 
++ 주변상권정보
 
+![주변상권](https://user-images.githubusercontent.com/75300624/175823570-f400c988-6ad0-44c8-8fea-45ffabd4e1d3.gif)
 
+왼쪽에 있는 아이콘을 클릭하면 주변의 편의시설 위치가 맵에 표시됩니다.
+
+하나의 마커를 클릭하면 간단한 정보를 볼 수 있고, 버튼을 누르면 해당 페이지로 이동합니다
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=393735&height=200&section=footer)
